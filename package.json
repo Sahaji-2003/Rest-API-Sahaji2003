@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-sahaji2003",
+  "version": "1.0.0",
+  "description": "Fake json api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
